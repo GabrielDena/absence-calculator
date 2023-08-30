@@ -1,0 +1,4 @@
+{
+  "root": true,
+  "extends": ["@gabrieldenac/eslint-config/react"]
+}
